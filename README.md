@@ -56,7 +56,7 @@ graph TB
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-avatar-project.git
+git clone https://github.com/MuhammadMuazzain/AI-Avatar-Generator.git
 cd ai-avatar-project
 ```
 
@@ -329,7 +329,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/ai-avatar-project.git
+git clone https://github.com/MuhammadMuazzain/AI-Avatar-Generator.git
 
 # Create feature branch
 git checkout -b feature/your-feature-name
@@ -350,19 +350,13 @@ python -m pytest tests/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **SadTalker**: Facial animation technology by [SadTalker Team](https://github.com/OpenTalker/SadTalker)
-- **Stable Diffusion**: Avatar generation by [Stability AI](https://stability.ai/)
-- **Google TTS**: Text-to-speech by [Google](https://cloud.google.com/text-to-speech)
-- **FastAPI**: Web framework by [Sebastián Ramírez](https://github.com/tiangolo/fastapi)
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/yourusername/ai-avatar-project/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-avatar-project/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-avatar-project/discussions)
-- **Email**: support@yourdomain.com
+- **Documentation**: [Wiki](https://github.com/MuhammadMuazzain/AI-Avatar-Generator.git/wiki)
+- **Issues**: [GitHub Issues](https://github.com/MuhammadMuazzain/AI-Avatar-Generator.git/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/MuhammadMuazzain/AI-Avatar-Generator.git/discussions)
+- **Email**: muhammadmuazzain07@gmail.com
 
 ## 📊 Stats
 
@@ -373,6 +367,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Muhammad](https://github.com/MuhammadMuazzain)**
 
 *Transform text into engaging AI avatars with cutting-edge technology.*
